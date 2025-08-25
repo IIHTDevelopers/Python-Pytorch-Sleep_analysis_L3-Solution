@@ -1,0 +1,10 @@
+{
+  "Sleep Duration": 6.5,
+  "Physical Activity Level": 40,
+  "Stress Level": 5,
+  "Heart Rate": 75,
+  "Daily Steps": 7000,
+  "Gender": "Female",
+  "Age": 32,
+  "Sleep Disorder": "None"
+}
